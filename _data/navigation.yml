@@ -10,6 +10,8 @@ main:
     url: /blog/
   - title: "Publications/CV"
     url: /cv/ 
+  - title: "Press/Outreach"
+    url: /press/ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
