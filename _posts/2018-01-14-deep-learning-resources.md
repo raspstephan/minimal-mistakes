@@ -1,9 +1,19 @@
 ---
 title:  "Deep Learning (for Atmospheric Scientists): How to get started"
 comments: true
-date:   2018-01-14 00:00:00 -0000
+date:   2019-02-05 00:00:00 -0000
 layout: single
+author_profile: true
 ---
+
+*Updated version of an earlier post after version 3 of fast.ai has been released.*
+
+**tl;dr**: There are currently two great resources for getting started with deep learning: [fast.ai](https://course.fast.ai/) and [deeplearning.io](https://www.coursera.org/specializations/deep-learning). fast.ai is great for people who love to learn by doing. deeplearning.ai follows a more traditional style of teaching. Both are great. I recommend trying the first lectures of both to see which one suits your style better.
+
+## Machine learning and deep learning are not hard!
+Over the course of the last year, I have given several presentation on my deep learning research. Many young scientists approached me afterwards to ask about resources for learning deep learning. I 
+
+
 
 In the last few weeks I gave several presentations on applying neural networks to problems in weather and climate science. Many people expressed an interest  in this topic and asked me to recommend resources to learn more about deep learning. For this reason I thought I would share with you my experiences getting into deep learning. 
 
