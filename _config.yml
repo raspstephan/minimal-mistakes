@@ -24,7 +24,7 @@ url                      : "https://raspstephan.github.io"  # the base hostname 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/portrait.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/portrait.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #"/assets/images/portrait.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "Stephan Rasp"
   avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Test."
+  bio              : "Researching at the intersection between atmospheric science and machine learning."
   location         : "Munich, Germany"
-  email            : "s.rasp@lmu.de"
+  # email            : "s.rasp@lmu.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,6 +124,9 @@ author:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://researchgate.net/profile/Stephan_Rasp"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-newspaper"
+      url: "https://tinyletter.com/raspstephan"
 
 
 # Site Footer
@@ -141,6 +144,9 @@ footer:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://researchgate.net/profile/Stephan_Rasp"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-newspaper"
+      url: "https://tinyletter.com/raspstephan"
 
 # Reading Files
 include:
@@ -207,9 +213,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+permalink: /blog/:categories/:title/
+paginate: 2 # amount of posts to show
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

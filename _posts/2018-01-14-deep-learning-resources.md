@@ -2,6 +2,7 @@
 title:  "Deep Learning (for Atmospheric Scientists): How to get started"
 comments: true
 date:   2018-01-14 00:00:00 -0000
+layout: single
 ---
 
 In the last few weeks I gave several presentations on applying neural networks to problems in weather and climate science. Many people expressed an interest  in this topic and asked me to recommend resources to learn more about deep learning. For this reason I thought I would share with you my experiences getting into deep learning. 

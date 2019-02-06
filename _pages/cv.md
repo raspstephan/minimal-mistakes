@@ -4,10 +4,7 @@ permalink: /cv/
 classes: wide
 ---
 
-![animation]({{ site.url }}/assets/portrait.jpg) 
-
-
-### Peer-reviewed publications
+## Peer-reviewed publications
 
 **Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
 
@@ -25,7 +22,21 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ---
 
-### Seminar Talks
+## Invited Talks
+
+[*UPCOMING*] [**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019
+
+**Workshop on Data Science and Machine Learning**, AGU Fall Meeting, Washington DC, USA, December 2018   
+*Opportunities and challenges for machine learning parameterizations*
+
+**Columbia University**, New York, USA, December 2018   
+*Deep learning to represent subgrid processes in climate models*
+
+**Harvard University - ClimaTea**, Cambridge, MA, USA, December 2018   
+*Deep learning to represent subgrid processes in climate models*
+
+**Massachusetts Institute of Technology**, Cambridge, MA, USA, December 2018   
+*Deep learning to represent subgrid processes in climate models*
 
 **Computer vision seminar, TU Munich**, Munich, Germany, August 2018   
 *Deep learning in weather and climate science*
@@ -34,7 +45,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 *Machine learning to represent atmospheric sub-grid processes*  
 
 
-### Workshops
+## Workshops
 
 **Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018    
 *Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
@@ -46,12 +57,15 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 *Workshops on machine learning in Python, Jupyter notebooks and the xarray package*
 
 
-### Conference presentations
+## Conference presentations
 
+[*UPCOMING*] [**Understanding Clouds and Precipitation**](https://indico.mpimet.mpg.de/event/1/), Berlin, Germany, February 2019
+
+**American Geophysical Union Fall Meeting**, Washington DC, USA, December 2018  
+*Deep learning to represent subgrid processes in climate models*, Poster 
 
 **Conference on Predictability and Multi-Scale Prediction of High Impact Weather**, Landshut, Germany, October 2017  
 *Variability and clustering of mid-latitude summertime convection*, Talk 
-
 
 **Future of Cumulus Parameterization Workshop**, Delft, Netherlands, July 2017   
 *Variability of Mid-Latitude Summertime Convection*, Poster 
@@ -74,7 +88,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ---
 
-### Education
+## Education
 
 *Feb - May 2018*  
 **Visiting Scholar**, UC Irvine  
